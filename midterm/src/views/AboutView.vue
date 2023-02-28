@@ -4,7 +4,7 @@
 <template>
   <main>
     <h1 class="title">
-      This is an about page
+      This is an about  page2
     </h1>
   </main>
 </template>
